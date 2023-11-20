@@ -16,6 +16,6 @@ Bu program, kullanıcılara personel listesini etkileşimli bir tablo görünüm
 
 6. **Ayarlanabilir Arayüz Boyutu:** Kullanıcı, uygulama arayüzünün boyutunu değiştirebilir. Arayüz boyutu değiştiğinde, görünümün bozulmaması ve düzgün çalışması sağlanmıştır.
 
-##Gereksinimler
+## Gereksinimler
 
 Qt 5'de çalıştırılmalıdır.
